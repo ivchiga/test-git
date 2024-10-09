@@ -8,3 +8,5 @@ Probando a añadir texto por ichigar con VSCode
 Prueba a hacer pull request 
 
 de nuevo desde vscode
+
+Cambio en el proyecto principal
